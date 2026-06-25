@@ -14,10 +14,10 @@ Script post-descarga para [slskd](https://github.com/slskd/slskd), el cliente de
 
 ## Requisitos opcionales
 
-- [Gotify](https://github.com/gotify/server)
+- [Gotify](https://codeberg.org/gotify/server)
 - [Clamav REST API](https://github.com/benzino77/clamav-rest-api)
-- [Butler](https://github.com/osdaeg/butler)
-- [Paste.sh](https://github.com/osdaeg/paste.sh)
+- [Butler](https://codeberg.org/osdaeg/butler)
+- [Paste.sh](https://codeberg.org/osdaeg/paste.sh)
 
 ---
 
@@ -96,8 +96,8 @@ Si `PASTEBIN=yes`, cualquier error inesperado del script sube las últimas 100 l
 
 ## Recursos útiles
 
-- [Mi configuración de beets](https://github.com/osdaeg/my-beets-config)
-- [Editor de metadatos Taggerr](https://github.com/osdaeg/taggerr)
+- [Mi configuración de beets](https://codeberg.org/osdaeg/my-beets-config)
+- [Editor de metadatos Taggerr](https://codeberg.org/osdaeg/taggerr)
 
 ---
 
